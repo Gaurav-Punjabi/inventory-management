@@ -1,0 +1,13 @@
+TABLES AJAX
+if tn/1 then json is not sending data.
+if tn/4then the json is sending 3 columns but there are more than 3 columns here on page for out output
+
+
+
+flow of project 
+* we made changes in index.php //sidebar,header,footer
+* we must be shown the name of the logged in user and photo and learnt session and stored id of logged in user
+* we created db.php
+* we created constants.php
+* we created process-login.php
+* we created 
